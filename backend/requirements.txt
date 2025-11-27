@@ -1,5 +1,6 @@
 Flask
 Flask-CORS
-pymysql
-sqlalchemy
+SQLAlchemy
+PyMySQL
 python-dotenv
+gunicorn
